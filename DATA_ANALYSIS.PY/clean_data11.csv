@@ -1,0 +1,224 @@
+﻿Order_ID,Date,Item_Name,Quantity,Price,DISCOUNT,SUB TOTAL,NET AMOUNT,Customer_Type,Feedback,Delivery_Location
+SW-101,01-04-2025,Veg Biryani,2,400,0,800,800,Returning,Good,Connaught Place
+SW-102,02-04-2025,Chicken Tikka Masala,1,350,50,350,300,New,Excellent,Saket
+SW-103,02-04-2025,Butter Naan,4,200,0,800,800,Returning,Average,Karol Bagh
+SW-104,05-04-2025,Paneer Butter Masala,1,250,20,250,230,New,Good,Hauz Khas
+SW-105,06-04-2025,Garlic Bread,2,180,0,360,360,Returning,Good,Lajpat Nagar
+SW-106,06-04-2025,Veg Biryani,1,200,10,200,190,New,Average,Connaught Place
+SW-107,08-04-2025,Chicken Biryani,2,500,0,1000,1000,Returning,Excellent,Rajouri Garden
+SW-108,08-04-2025,Dal Makhani,1,180,30,180,150,Returning,Good,Saket
+SW-109,09-04-2025,Mixed Veg   Curry,3,450,0,1350,1350,New,Average,Karol Bagh
+SW-110,10-04-2025,Fish Curry,1,300,50,300,250,Returning,Excellent,Lajpat Nagar
+SW-111,10-04-2025,Cheese Garlic Bread,2,260,0,520,520,New,Good,Hauz Khas
+SW-112,12-04-2025,Mutton Biryani,1,350,0,350,350,Returning,Excellent,Rajouri Garden
+SW-113,12-04-2025,Veg Pulao,3,420,40,1260,1220,New,Average,Connaught Place
+SW-114,14-04-2025,Dal Tadka,2,240,0,480,480,Returning,Excellent,Punjabi Bagh
+SW-115,14-04-2025,Mutton Rogan Josh,1,450,30,450,420,New,Good,Vasant Kunj
+SW-116,15-04-2025,Butter Chicken,2,500,0,1000,1000,Returning,Excellent,Noida Sector 18
+SW-117,16-04-2025,Veg Hakka Noodles,1,220,20,220,200,New,Good,Greater Noida
+SW-118,16-04-2025,Garlic Naan,3,180,0,540,540,Returning,Average,Noida Sector 62
+SW-119,17-04-2025,Kadai Paneer,1,280,0,280,280,New,Good,Indirapuram
+SW-120,18-04-2025,Chicken Biryani,2,500,10,1000,990,Returning,Excellent,Vaishali
+SW-121,18-04-2025,Veg Pulao,1,160,0,160,160,New,Average,Noida Sector 15
+SW-122,19-04-2025,Mutton Korma,1,380,25,380,355,Returning,Good,Noida Sector 18
+SW-123,20-04-2025,Dal Makhani,2,200,0,400,400,New,Excellent,Greater Noida
+SW-124,20-04-2025,Jeera Rice,1,140,0,140,140,Returning,Good,Noida Sector 62
+SW-125,21-04-2025,Tandoori Roti,4,100,10,400,390,New,Average,Indirapuram
+SW-126,22-04-2025,Malai Kofta,2,320,0,640,640,Returning,Good,Vaishali
+SW-127,22-04-2025,Fish Curry,1,350,15,350,335,New,Excellent,Noida Sector 18
+SW-128,23-04-2025,Chana Masala,2,240,0,480,480,Returning,Average,Noida Sector 15
+SW-129,24-04-2025,Paneer Tikka Masala,1,300,20,300,280,New,Good,Greater Noida
+SW-130,24-04-2025,Butter Naan,3,150,0,450,450,Returning,Excellent,Noida Sector 62
+SW-131,25-04-2025,Veg Biryani,2,400,0,800,800,New,Good,Indirapuram
+SW-132,26-04-2025,Chicken Tikka,1,250,30,250,220,Returning,Excellent,Vaishali
+SW-133,26-04-2025,Dal Tadka,1,150,0,150,150,New,Average,Noida Sector 18
+SW-134,27-04-2025,Mixed Veg Curry,2,300,0,600,600,Returning,Good,Noida Sector 15
+SW-135,28-04-2025,Gulab Jamun,3,180,10,540,530,New,Excellent,Greater Noida
+SW-136,28-04-2025,Raita,2,90,0,180,180,Returning,Good,Noida Sector 62
+SW-137,29-04-2025,Shahi Paneer,1,320,20,320,300,New,Average,Indirapuram
+SW-138,30-04-2025,Laccha Paratha,3,120,0,360,360,Returning,Excellent,Vaishali
+SW-139,30-04-2025,Mutton Rogan Josh,1,450,15,450,435,New,Good,Noida Sector 18
+SW-140,01-05-2025,Egg Curry,2,260,0,520,520,Returning,Excellent,Noida Sector 15
+SW-141,02-05-2025,Veg Spring Rolls,3,300,20,900,880,New,Average,Greater Noida
+SW-142,02-05-2025,Veg Manchurian,1,200,0,200,200,Returning,Good,Noida Sector 62
+SW-143,03-05-2025,Dal Fry,2,240,10,480,470,New,Good,Indirapuram
+SW-144,04-05-2025,Kadhai Chicken,1,320,0,320,320,Returning,Excellent,Vaishali
+SW-145,04-05-2025,Butter Naan,4,200,0,800,800,New,Excellent,Noida Sector 18
+SW-146,05-05-2025,Paneer Butter Masala,1,250,30,250,220,Returning,Good,Noida Sector 15
+SW-147,06-05-2025,Garlic Bread,2,180,0,360,360,New,Average,Greater Noida
+SW-148,06-05-2025,Veg Biryani,1,200,0,200,200,Returning,Good,Noida Sector 62
+SW-149,07-05-2025,Chicken Biryani,2,500,15,1000,985,New,Excellent,Indirapuram
+SW-150,08-05-2025,Dal Makhani,1,180,0,180,180,Returning,Good,Vaishali
+SW-151,08-05-2025,Mixed Veg Curry,3,450,20,1350,1330,New,Average,Noida Sector 18
+SW-152,09-05-2025,Fish Curry,1,300,0,300,300,Returning,Excellent,Noida Sector 15
+SW-153,10-05-2025,Cheese Garlic Bread,2,260,0,520,520,New,Good,Greater Noida
+SW-154,10-05-2025,Mutton Biryani,1,350,25,350,325,Returning,Excellent,Noida Sector 62
+SW-155,11-05-2025,Veg Pulao,3,420,0,1260,1260,New,Average,Indirapuram
+SW-156,12-05-2025,Butter Chicken,2,500,0,1000,1000,Returning,Good,Vaishali
+SW-157,12-05-2025,Veg Hakka Noodles,1,220,10,220,210,New,Good,Noida Sector 18
+SW-158,13-05-2025,Garlic Naan,3,180,0,540,540,Returning,Average,Noida Sector 15
+SW-159,14-05-2025,Kadai Paneer,1,280,0,280,280,New,Excellent,Greater Noida
+SW-160,14-05-2025,Chicken Biryani,2,500,15,1000,985,Returning,Excellent,Noida Sector 62
+SW-161,15-05-2025,Veg Pulao,1,160,0,160,160,New,Average,Indirapuram
+SW-162,15-05-2025,Mutton Korma,1,380,0,380,380,Returning,Good,Vaishali
+SW-163,16-05-2025,Dal Makhani,2,200,10,400,390,New,Good,Noida Sector 18
+SW-164,16-05-2025,Jeera Rice,1,140,0,140,140,Returning,Excellent,Noida Sector 15
+SW-165,17-05-2025,Tandoori Roti,4,100,0,400,400,New,Good,Greater Noida
+SW-166,17-05-2025,Kadai Paneer,1,280,20,280,260,New,Good,Noida Sector 18
+SW-167,18-05-2025,Butter Chicken,2,500,0,1000,1000,Returning,Excellent,Greater Noida
+SW-168,18-05-2025,Veg Hakka Noodles,1,220,0,220,220,New,Average,Noida Sector 62
+SW-169,19-05-2025,Garlic Naan,3,180,0,540,540,Returning,Good,Indirapuram
+SW-170,20-05-2025,Kadai Paneer,1,280,10,280,270,New,Excellent,Vaishali
+SW-171,20-05-2025,Chicken Biryani,2,500,0,1000,1000,Returning,Good,Noida Sector 15
+SW-172,21-05-2025,Veg Pulao,1,160,15,160,145,New,Average,Noida Sector 18
+SW-173,22-05-2025,Mutton Korma,1,380,0,380,380,Returning,Excellent,Greater Noida
+SW-174,22-05-2025,Dal Makhani,2,200,0,400,400,New,Good,Noida Sector 62
+SW-175,23-05-2025,Jeera Rice,1,140,20,140,120,Returning,Good,Indirapuram
+SW-176,24-05-2025,Tandoori Roti,4,100,0,400,400,New,Average,Vaishali
+SW-177,24-05-2025,Malai Kofta,2,320,0,640,640,Returning,Excellent,Noida Sector 18
+SW-178,25-05-2025,Fish Curry,1,350,25,350,325,New,Good,Noida Sector 15
+SW-179,26-05-2025,Chana Masala,2,240,0,480,480,Returning,Good,Greater Noida
+SW-180,26-05-2025,Paneer Tikka Masala,1,300,0,300,300,New,Excellent,Noida Sector 62
+SW-181,27-05-2025,Butter Naan,3,150,10,450,440,Returning,Good,Indirapuram
+SW-182,28-05-2025,Veg Biryani,2,400,0,800,800,New,Average,Vaishali
+SW-183,28-05-2025,Chicken Tikka,1,250,0,250,250,Returning,Excellent,Noida Sector 18
+SW-184,29-05-2025,Dal Tadka,1,150,15,150,135,New,Good,Noida Sector 15
+SW-185,30-05-2025,Mixed Veg Curry,2,300,0,600,600,Returning,Good,Greater Noida
+SW-186,30-05-2025,Gulab Jamun,3,180,0,540,540,New,Excellent,Noida Sector 62
+SW-187,31-05-2025,Raita,2,90,20,180,160,Returning,Good,Indirapuram
+SW-188,01-06-2025,Shahi Paneer,1,320,0,320,320,New,Average,Vaishali
+SW-189,01-06-2025,Laccha Paratha,3,120,0,360,360,Returning,Good,Noida Sector 18
+SW-190,02-06-2025,Mutton Rogan Josh,1,450,10,450,440,New,Excellent,Noida Sector 15
+SW-191,03-06-2025,Egg Curry,2,260,0,520,520,Returning,Excellent,Greater Noida
+SW-192,03-06-2025,Veg Spring Rolls,3,300,0,900,900,New,Average,Noida Sector 62
+SW-193,04-06-2025,Veg Manchurian,1,200,25,200,175,Returning,Good,Indirapuram
+SW-194,05-06-2025,Dal Fry,2,240,0,480,480,New,Good,Vaishali
+SW-195,05-06-2025,Kadhai Chicken,1,320,0,320,320,Returning,Excellent,Noida Sector 18
+SW-196,06-06-2025,Butter Naan,4,200,0,800,800,New,Good,Noida Sector 15
+SW-197,07-06-2025,Paneer Butter Masala,1,250,15,250,235,Returning,Average,Greater Noida
+SW-198,07-06-2025,Garlic Bread,2,180,0,360,360,New,Good,Noida Sector 62
+SW-199,08-06-2025,Veg Biryani,1,200,0,200,200,Returning,Excellent,Indirapuram
+SW-200,09-06-2025,Chicken Biryani,2,500,30,1000,970,New,Good,Vaishali
+SW-201,09-06-2025,Dal Makhani,1,180,0,180,180,Returning,Good,Noida Sector 18
+SW-202,10-06-2025,Mixed Veg Curry,3,450,0,1350,1350,New,Average,Noida Sector 15
+SW-203,10-06-2025,Fish Curry,1,300,10,300,290,Returning,Excellent,Greater Noida
+SW-204,11-06-2025,Cheese Garlic Bread,2,260,0,520,520,New,Excellent,Noida Sector 62
+SW-205,12-06-2025,Mutton Biryani,1,350,0,350,350,Returning,Good,Indirapuram
+SW-206,12-06-2025,Veg Pulao,3,420,20,1260,1240,New,Average,Vaishali
+SW-207,13-06-2025,Butter Chicken,2,500,0,1000,1000,Returning,Excellent,Noida Sector 18
+SW-208,14-06-2025,Veg Hakka Noodles,1,220,0,220,220,New,Good,Noida Sector 15
+SW-209,14-06-2025,Garlic Naan,3,180,15,540,525,Returning,Average,Greater Noida
+SW-210,15-06-2025,Kadai Paneer,1,280,0,280,280,New,Excellent,Noida Sector 62
+SW-211,16-06-2025,Chicken Biryani,2,500,0,1000,1000,Returning,Good,Indirapuram
+SW-212,16-06-2025,Veg Pulao,1,160,0,160,160,New,Average,Vaishali
+SW-213,17-06-2025,Mutton Korma,1,380,10,380,370,Returning,Good,Noida Sector 18
+SW-214,18-06-2025,Dal Makhani,2,200,0,400,400,New,Excellent,Noida Sector 15
+SW-215,18-06-2025,Jeera Rice,1,140,0,140,140,Returning,Good,Greater Noida
+SW-216,14-04-2025,Veg Pulao,3,420,40,1260,1220,New,Average,Connaught Place
+SW-216,14-04-2025,Butter Chicken,2,500,0,1000,1000,Returning,Excellent,Greater Noida
+SW-216,14-04-2025,Chana Masala,2,240,0,480,480,Returning,Good,Greater Noida
+SW-216,14-04-2025,Cheese Garlic Bread,2,260,0,520,520,New,Good,Greater Noida
+SW-216,14-04-2025,Dal Makhani,2,200,0,400,400,New,Excellent,Greater Noida
+SW-216,14-04-2025,Egg Curry,2,260,0,520,520,Returning,Excellent,Greater Noida
+SW-216,14-04-2025,Fish Curry,1,300,10,300,290,Returning,Excellent,Greater Noida
+SW-216,14-04-2025,Garlic Bread,2,180,0,360,360,New,Average,Greater Noida
+SW-216,14-04-2025,Garlic Naan,3,180,15,540,525,Returning,Average,Greater Noida
+SW-216,14-04-2025,Gulab Jamun,3,180,10,540,530,New,Excellent,Greater Noida
+SW-216,14-04-2025,Jeera Rice,1,140,0,140,140,Returning,Good,Greater Noida
+SW-216,14-04-2025,Kadai Paneer,1,280,0,280,280,New,Excellent,Greater Noida
+SW-216,14-04-2025,Mixed Veg Curry,2,300,0,600,600,Returning,Good,Greater Noida
+SW-216,14-04-2025,Mutton Korma,1,380,0,380,380,Returning,Excellent,Greater Noida
+SW-216,14-04-2025,Paneer Butter Masala,1,250,15,250,235,Returning,Average,Greater Noida
+SW-216,14-04-2025,Paneer Tikka Masala,1,300,20,300,280,New,Good,Greater Noida
+SW-216,14-04-2025,Tandoori Roti,4,100,0,400,400,New,Good,Greater Noida
+SW-216,14-04-2025,Veg Hakka Noodles,1,220,20,220,200,New,Good,Greater Noida
+SW-216,14-04-2025,Veg Spring Rolls,3,300,20,900,880,New,Average,Greater Noida
+SW-216,14-04-2025,Cheese Garlic Bread,2,260,0,520,520,New,Good,Hauz Khas
+SW-216,14-04-2025,Butter Naan,3,150,10,450,440,Returning,Good,Indirapuram
+SW-216,14-04-2025,Chicken Biryani,2,500,15,1000,985,New,Excellent,Indirapuram
+SW-216,14-04-2025,Chicken Biryani,2,500,0,1000,1000,Returning,Good,Indirapuram
+SW-216,14-04-2025,Dal Fry,2,240,10,480,470,New,Good,Indirapuram
+SW-216,14-04-2025,Garlic Naan,3,180,0,540,540,Returning,Good,Indirapuram
+SW-216,14-04-2025,Jeera Rice,1,140,20,140,120,Returning,Good,Indirapuram
+SW-216,14-04-2025,Kadai Paneer,1,280,0,280,280,New,Good,Indirapuram
+SW-216,14-04-2025,Mutton Biryani,1,350,0,350,350,Returning,Good,Indirapuram
+SW-216,14-04-2025,Raita,2,90,20,180,160,Returning,Good,Indirapuram
+SW-216,14-04-2025,Shahi Paneer,1,320,20,320,300,New,Average,Indirapuram
+SW-216,14-04-2025,Tandoori Roti,4,100,10,400,390,New,Average,Indirapuram
+SW-216,14-04-2025,Veg Biryani,2,400,0,800,800,New,Good,Indirapuram
+SW-216,14-04-2025,Veg Biryani,1,200,0,200,200,Returning,Excellent,Indirapuram
+SW-216,14-04-2025,Veg Manchurian,1,200,25,200,175,Returning,Good,Indirapuram
+SW-216,14-04-2025,Veg Pulao,3,420,0,1260,1260,New,Average,Indirapuram
+SW-216,14-04-2025,Veg Pulao,1,160,0,160,160,New,Average,Indirapuram
+SW-216,14-04-2025,Gulab Jamun,3,180,10,540,530,New,Excellent,Na
+SW-216,14-04-2025,Mutton Rogan   Josh,1,450,15,450,435,New,Good,Na
+SW-216,14-04-2025,Mutton Rogan Josh,1,450,15,450,435,New,Good,Na
+SW-216,14-04-2025,Butter Naan,4,200,0,800,800,New,Good,Noida Sector 15
+SW-216,14-04-2025,Chana Masala,2,240,0,480,480,Returning,Average,Noida Sector 15
+SW-216,14-04-2025,Chicken Biryani,2,500,0,1000,1000,Returning,Good,Noida Sector 15
+SW-216,14-04-2025,Dal Makhani,2,200,0,400,400,New,Excellent,Noida Sector 15
+SW-216,14-04-2025,Dal Tadka,1,150,15,150,135,New,Good,Noida Sector 15
+SW-216,14-04-2025,Egg Curry,2,260,0,520,520,Returning,Excellent,Noida Sector 15
+SW-216,14-04-2025,Fish Curry,1,300,0,300,300,Returning,Excellent,Noida Sector 15
+SW-216,14-04-2025,Fish Curry,1,350,25,350,325,New,Good,Noida Sector 15
+SW-216,14-04-2025,Garlic Naan,3,180,0,540,540,Returning,Average,Noida Sector 15
+SW-216,14-04-2025,Jeera Rice,1,140,0,140,140,Returning,Excellent,Noida Sector 15
+SW-216,14-04-2025,Mixed Veg Curry,2,300,0,600,600,Returning,Good,Noida Sector 15
+SW-216,14-04-2025,Mixed Veg Curry,3,450,0,1350,1350,New,Average,Noida Sector 15
+SW-216,14-04-2025,Mutton Rogan Josh,1,450,10,450,440,New,Excellent,Noida Sector 15
+SW-216,14-04-2025,Paneer Butter Masala,1,250,30,250,220,Returning,Good,Noida Sector 15
+SW-216,14-04-2025,Veg Hakka Noodles,1,220,0,220,220,New,Good,Noida Sector 15
+SW-216,14-04-2025,Veg Pulao,1,160,0,160,160,New,Average,Noida Sector 15
+SW-216,14-04-2025,Butter Chicken,2,500,0,1000,1000,Returning,Excellent,Noida Sector 18
+SW-216,14-04-2025,Butter Naan,4,200,0,800,800,New,Excellent,Noida Sector 18
+SW-216,14-04-2025,Chicken Tikka,1,250,0,250,250,Returning,Excellent,Noida Sector 18
+SW-216,14-04-2025,Dal Makhani,2,200,10,400,390,New,Good,Noida Sector 18
+SW-216,14-04-2025,Dal Makhani,1,180,0,180,180,Returning,Good,Noida Sector 18
+SW-216,14-04-2025,Dal Tadka,1,150,0,150,150,New,Average,Noida Sector 18
+SW-216,14-04-2025,Fish Curry,1,350,15,350,335,New,Excellent,Noida Sector 18
+SW-216,14-04-2025,Kadai Paneer,1,280,20,280,260,New,Good,Noida Sector 18
+SW-216,14-04-2025,Kadhai Chicken,1,320,0,320,320,Returning,Excellent,Noida Sector 18
+SW-216,14-04-2025,Laccha Paratha,3,120,0,360,360,Returning,Good,Noida Sector 18
+SW-216,14-04-2025,Malai Kofta,2,320,0,640,640,Returning,Excellent,Noida Sector 18
+SW-216,14-04-2025,Mixed Veg Curry,3,450,20,1350,1330,New,Average,Noida Sector 18
+SW-216,14-04-2025,Mutton Korma,1,380,25,380,355,Returning,Good,Noida Sector 18
+SW-216,14-04-2025,Mutton Korma,1,380,10,380,370,Returning,Good,Noida Sector 18
+SW-216,14-04-2025,Mutton Rogan   Josh,1,450,15,450,435,New,Good,Noida Sector 18
+SW-216,14-04-2025,Mutton Rogan Josh,1,450,15,450,435,New,Good,Noida Sector 18
+SW-216,14-04-2025,Veg Hakka Noodles,1,220,10,220,210,New,Good,Noida Sector 18
+SW-216,14-04-2025,Veg Pulao,1,160,15,160,145,New,Average,Noida Sector 18
+SW-216,14-04-2025,Butter Naan,3,150,0,450,450,Returning,Excellent,Noida Sector 62
+SW-216,14-04-2025,Cheese Garlic Bread,2,260,0,520,520,New,Excellent,Noida Sector 62
+SW-216,14-04-2025,Chicken Biryani,2,500,15,1000,985,Returning,Excellent,Noida Sector 62
+SW-216,14-04-2025,Dal Makhani,2,200,0,400,400,New,Good,Noida Sector 62
+SW-216,14-04-2025,Garlic Bread,2,180,0,360,360,New,Good,Noida Sector 62
+SW-216,14-04-2025,Garlic Naan,3,180,0,540,540,Returning,Average,Noida Sector 62
+SW-216,14-04-2025,Gulab Jamun,3,180,0,540,540,New,Excellent,Noida Sector 62
+SW-216,14-04-2025,Jeera Rice,1,140,0,140,140,Returning,Good,Noida Sector 62
+SW-216,14-04-2025,Kadai Paneer,1,280,0,280,280,New,Excellent,Noida Sector 62
+SW-216,14-04-2025,Mutton Biryani,1,350,25,350,325,Returning,Excellent,Noida Sector 62
+SW-216,14-04-2025,Paneer Tikka Masala,1,300,0,300,300,New,Excellent,Noida Sector 62
+SW-216,14-04-2025,Raita,2,90,0,180,180,Returning,Good,Noida Sector 62
+SW-216,14-04-2025,Veg Biryani,1,200,0,200,200,Returning,Good,Noida Sector 62
+SW-216,14-04-2025,Veg Hakka Noodles,1,220,0,220,220,New,Average,Noida Sector 62
+SW-216,14-04-2025,Veg Manchurian,1,200,0,200,200,Returning,Good,Noida Sector 62
+SW-216,14-04-2025,Veg Spring Rolls,3,300,0,900,900,New,Average,Noida Sector 62
+SW-216,14-04-2025,Dal Tadka,2,240,0,480,480,Returning,Excellent,Punjabi Bagh
+SW-216,14-04-2025,Mutton Biryani,1,350,0,350,350,Returning,Excellent,Rajouri Garden
+SW-216,14-04-2025,Butter Chicken,2,500,0,1000,1000,Returning,Good,Vaishali
+SW-216,14-04-2025,Chicken Biryani,2,500,10,1000,990,Returning,Excellent,Vaishali
+SW-216,14-04-2025,Chicken Biryani,2,500,30,1000,970,New,Good,Vaishali
+SW-216,14-04-2025,Chicken Tikka,1,250,30,250,220,Returning,Excellent,Vaishali
+SW-216,14-04-2025,Dal Fry,2,240,0,480,480,New,Good,Vaishali
+SW-216,14-04-2025,Dal Makhani,1,180,0,180,180,Returning,Good,Vaishali
+SW-216,14-04-2025,Kadai Paneer,1,280,10,280,270,New,Excellent,Vaishali
+SW-216,14-04-2025,Kadhai Chicken,1,320,0,320,320,Returning,Excellent,Vaishali
+SW-216,14-04-2025,Laccha Paratha,3,120,0,360,360,Returning,Excellent,Vaishali
+SW-216,14-04-2025,Malai Kofta,2,320,0,640,640,Returning,Good,Vaishali
+SW-216,14-04-2025,Mutton Korma,1,380,0,380,380,Returning,Good,Vaishali
+SW-216,14-04-2025,Shahi Paneer,1,320,0,320,320,New,Average,Vaishali
+SW-216,14-04-2025,Tandoori Roti,4,100,0,400,400,New,Average,Vaishali
+SW-216,14-04-2025,Veg Biryani,2,400,0,800,800,New,Average,Vaishali
+SW-216,14-04-2025,Veg Pulao,3,420,20,1260,1240,New,Average,Vaishali
+SW-216,14-04-2025,Veg Pulao,1,160,0,160,160,New,Average,Vaishali
+SW-216,14-04-2025,Mutton Rogan Josh,1,450,30,450,420,New,Good,Vasant Kunj
